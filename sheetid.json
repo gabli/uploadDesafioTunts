@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "desafio-tunts-302100",
+  "private_key_id": "1812020cce9961117ae11bba2f066bfbea83795e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYNLg+jIywYGFO\nTPSWaQ1/afajQgtH5DLIWe5aXSPVeCFHMtKq1ttjkKQLPNznBjxqzdZ9lWx5Xaqv\nXyVAQzsJFAcUDIds0lrsp2jJ03usBOHibL/PrOWNADnaXh0hkwwrHgBhWSpn4lxc\n6ffZTwwkLAR+Vx/4KwxuPlVc6Py57VDZQhkaD0HcETQXR/le9eg41DR4aroxJsvi\n++PE1whB2bE/Q6eIJ+PPVls5zTeepS/kF47idEtbyvVWLt2P92LcEl+11ZTvmUxg\nWMFUeYpNPU0oKurceZNQX7jN5vtAIW+Gr1kBgTt8cC88EiLbbDARlDEldrC5in57\nCT6dUE3ZAgMBAAECggEAAc++0Z/CnObIwbHQx2mAq5+LO+4xTC2/HPtVBuZM4uGH\nI93K/BWKjujNywRybJ16YpsIjn4UyG0A9w1e2CD0turyGp77jaQDSQXFDYHi2u1D\n8vnwXnxkTwVNqveryRaC8pBs2LvC8XGUP9bZCFEUh+muNAK9cqqwfy9mvLBZMa1I\nr11ZWxXwD2oXVCg23VJ+GM8GhdTUmlM0rwLdEByOywaLiBfkviAqcdJT+kMh5NMR\n4iYJ6NAiqxYNV3zCo0ZVc35NG504D3DVpz1WxJqOf0n/068P7sq01W9q0PbA5WSX\ngXyX4vOswFn0y5LHoptYukgU43K/r1co2+GmYQscAQKBgQDTXNechuqBhijhwZvi\nTUhYUUjM/E3TQ5cHGvL3Ngmp4LmByHShbSQxuN+b1tDxEKKN+9BjWpd/hPvNjaxm\n0PdejRDLMH7Nsg3iQf74SEEKUBlrOUe1Urged7HuLX6PQLW2zjpewKePaNv8V2vJ\nIsY9LcY6Wrz0YbsV0vbV7gQIeQKBgQC4WZ1zPgrGdLWIvDjiDUtKjeeFZgHYw504\n5RDG0ol2JZwQZz5W1nMZJfbQQnUA/Uii0fxR+rg1HscjVurKwU6MPgVSQE8CGc4C\nYaKk9sfkeGHgEWKttYaAnYUC8+nH2NxUQ5VY7PlG+w86RKALz0zlOi9imPUY3hjc\nf90nePvYYQKBgA1wXsk2Dt0TcbABBm9aKJps+KsH887WAllSTlaHmg+yGTl2TGwj\nK2T580XOX9SkESHj+/kFPpK+GuCT/H1BFilt4L56o+ViR922Aoc42OHV+/fEWZne\n25QcWjThsaVcIPGxpSZ3K3BD45Dk4haU3nPvYCY/tLn5KNMXadhqXNlJAoGARc+Z\n8nRCPFkiDb/JgsEqC/ek/z1b4axiM5N7QO+loponeYa/cr8PIyzfRIqGKHPCN/Zx\nKNJbQ7J+EwHtNA70IeOyvC0iPldrTjePEg1qMTjtR58N0V52qun73txjYYzcEwTs\n35oN5DVa1OP7/7znD79zBlGKL3qby5SYOUR1isECgYEA0pQ+ysS4g/aZuAEim1Yk\n6Fk67uq5wi9Q5yB0KVDVCjrLz9Yu3Y8sToGJgR2eP5Yx412+qUoWwajLxkjNfgfx\nWVlyTrntkvTJvusZY3pxoUpL9Db19Oq+32FNR09nZLWndvEdug5WHpKmmfBWB65c\nVupYM9oUr8a45zZjrNN03qw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "challenge2021@desafio-tunts-302100.iam.gserviceaccount.com",
+  "client_id": "112634616200649601842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/challenge2021%40desafio-tunts-302100.iam.gserviceaccount.com"
+}
