@@ -47,7 +47,7 @@ def spreadsheets(wsheet):
     # + 3 to offset the header
     number_rows = len(to_update) + 3
 
-    range_gd = "G4:H" + str(numero_linhas)
+    range_gd = "G4:H" + str(number_rows)
 
     wsheet.update(range_gd, to_update)
 
